@@ -30,3 +30,4 @@ En tiedä tuunko tätä ikinä tekemään eteenpäin, mutta jos joskus tulee ins
 - Tilien lisäys
 - Ehkä joku nätimpi GUI? :D
 - Suojaus tileihin?
+- .env-tiedosto, johon salasanat yms
